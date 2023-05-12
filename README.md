@@ -1,3 +1,5 @@
+<a href="#" target="_blank"><img src="https://github.com/NamJungHyeon/NamJungHyeon/blob/main/img/nam.svg" width="50%"    align="left"/></a>
+
 ### Hi there 👋
 
 <!--
