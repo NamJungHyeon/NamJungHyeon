@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<br><br>
+<br><br><br><br>
 
 <a href="#" target="_blank"><img src="https://github.com/NamJungHyeon/NamJungHyeon/blob/main/img/language.svg" with="80%" align="center"/></a>
 
