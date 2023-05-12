@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<a href="#" target="_blank"><img src="https://github.com/NamJungHyeon/NamJungHyeon/blob/main/img/language.svg" with="80%" align="center"/></a>
+
 <!--
 **NamJungHyeon/NamJungHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
