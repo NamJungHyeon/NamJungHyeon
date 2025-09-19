@@ -26,7 +26,7 @@
 ### 📊 깃허브 활동 (GitHub Stats)
 
 [\![NamJungHyeon's GitHub stats](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNamJungHyeon\&show\_icons=true\&theme=radical)](https://github.com/NamJungHyeon)
-[\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[깃허브 사용자명]\&layout=compact\&theme=radical)](https://github.com/NamJungHyeon)
+[\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamJungHyeon\&layout=compact\&theme=radical)](https://github.com/NamJungHyeon)
 
 <br>
 
